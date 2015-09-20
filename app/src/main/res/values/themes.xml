@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CusTheme"
+        parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/MyActBar</item>
+        <!--Sup lib compatibility-->
+        <item name="actionBarStyle">@style/MyActBar</item>
+    </style>
+    <!--action bar style-->
+    <style name="MyActBar"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/red</item>
+        <!--Sup lib compatibility-->
+        <item name="background">@color/red</item>
+    </style>
+</resources>

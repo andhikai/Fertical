@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ferticalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Pesan Nya</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">Pesan</string>
+    <string name="title_activity_card1">Masa Subur</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dialogadd">ADD</string>
+
+</resources>
